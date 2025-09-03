@@ -1,9 +1,9 @@
 *.jpg
 *.txt
 *.png
-*.env
-*.pt
 *.csv
+*.yaml
+*.pt
 *.zip
 *.cache
-*.yaml
+.env
